@@ -1,0 +1,6 @@
+---
+connection_options:
+  paramiko:
+    conn_timeout: 30
+  netmiko:
+    conn_timeout: 30

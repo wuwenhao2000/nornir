@@ -1,0 +1,11 @@
+*test*
+.DS_Store
+.vscode*
+*.pyc
+*__pycache__*
+venv*
+*.swi
+*.tgz
+image*
+roles*
+*.log

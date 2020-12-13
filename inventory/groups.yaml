@@ -1,0 +1,9 @@
+---
+ios:
+    platform: cisco_ios
+eos:
+    platform: arista_eos
+junos:
+    platform: juniper_junos
+ssg:
+    platform: juniper_screenos
