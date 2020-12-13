@@ -9,3 +9,4 @@ venv*
 image*
 roles*
 *.log
+*pass*
