@@ -5,7 +5,7 @@ from nornir.plugins.functions.text import print_result
 import json
 
 def adapt_host_data(host):
-    with open("/Users/wenhao/pass.json", "r") as f:
+    with open("pass.json", "r") as f:
        data = json.load(f)
        host.username = data["username"]
        host.password = data["password"]

@@ -1,43 +1,40 @@
 ---
-fxks-sw1:
-  hostname: fxks-sw1
+ios1:
+  hostname: ios1
   groups:
     - ios
 
-fxks-sw2:
-  hostname: fxks-sw2
+ios2:
+  hostname: ios2
   groups:
     - ios
 
-nvdg-panda-fw:
-  hostname: nvdg-panda-fw
+junos1:
+  hostname: junos1
   groups:
     - junos
     
-uats-fw:
-  hostname: uats-fw
+junos2:
+  hostname: junos2
   groups:
     - junos
 
-nvdg-panda-sw1:
-  hostname: nvdg-panda-sw1
+eos1:
+  hostname: eos1
   groups:
     - eos
 
-nvdg-panda-sw2:
-  hostname: nvdg-panda-sw2
+eos2:
+  hostname: eos2
   groups:
     - eos
 
-fxks-fw1:
-  hostname: fxks-fw1
+ssg1:
+  hostname: ssg1
   groups:
     - ssg
 
-ronj-fw1:
-  hostname: ronj-fw1
+ssg2:
+  hostname: ssg2
   groups:
     - ssg
-
-
-    
